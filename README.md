@@ -8,6 +8,8 @@
 - Send your Proof
 - Done
 
+# Tutorial Run Datagram on Linus/VPS
+
 ## Instalation
 1. **Create a new folder:**
    ```bash
