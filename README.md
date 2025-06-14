@@ -1,12 +1,12 @@
 # Datagram Network Alpha Testnet
 🏷 Reward : Confirmed
 
-➖ Regist [Here](https://dashboard.datagram.network?ref=457235697)
-➖ Join Official [Discord](https://discord.gg/qXqBsSGA8g) & [Telegram](https://t.me/datagramnetwork) 
-➖ Create a Ticket "Early Alpha Tester Role"
-➖ Follow [Twitter](https://x.com/DGramNetwork) & [Retweet](https://x.com/DGramNetwork/status/1932786372613734602)  
-➖ Send your Proof
-➖ Done
+- Regist [Here](https://dashboard.datagram.network?ref=457235697)
+- Join Official [Discord](https://discord.gg/qXqBsSGA8g) & [Telegram](https://t.me/datagramnetwork)
+- Create a Ticket "Early Alpha Tester Role"
+- Follow [Twitter](https://x.com/DGramNetwork) & [Retweet](https://x.com/DGramNetwork/status/1932786372613734602)
+- Send your Proof
+- Done
 
 ## Instalation
 1. **Create a new folder:**
